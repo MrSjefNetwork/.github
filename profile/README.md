@@ -1,12 +1,15 @@
-## Hi there 👋
+# 👋 Welkom bij MrSjefNetwork
 
-<!--
+Dit is de officiële GitHub-organisatie voor MrSjefNetwork. Hier beheren we onze projecten en ontwikkelen we samen aan innovatieve oplossingen.
 
-**Here are some ideas to get you started:**
+## 📂 Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🔹 [CRM-MrSjef](https://github.com/MrSjefNetwork/CRM-MrSjef) - Beheer van klantrelaties  
+🔹 [PowerApps-DevGuide](https://github.com/MrSjefNetwork/PowerApps-DevGuide) - Richtlijnen en standaarden voor Power Apps  
+🔹 [Werkafspraken](https://github.com/MrSjefNetwork/Werkafspraken) - Bedrijfsspecifieke afspraken en processen  
+🔹 [Algemeen](https://github.com/MrSjefNetwork/Algemeen) - Algemene documentatie en richtlijnen  
+
+🎯 **Doel**: Een gestructureerde en efficiënte samenwerking binnen ons bedrijf.
+
+---
+✅ **Voor vragen en bijdragen, neem contact op met het team!**
