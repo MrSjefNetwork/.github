@@ -8,6 +8,7 @@ Dit is de officiële GitHub-organisatie voor MrSjefNetwork. Hier beheren we onze
 🔹 [PowerApps-DevGuide](https://github.com/MrSjefNetwork/PowerApps-DevGuide) - Richtlijnen en standaarden voor Power Apps  
 🔹 [CRM-MrSjef](https://github.com/MrSjefNetwork/CRM-MrSjef) - Beheer van klantrelaties  
 🔹 [Werkafspraken](https://github.com/MrSjefNetwork/Werkafspraken) - Bedrijfsspecifieke afspraken en processen  
+🔹 [M365](https://github.com/MrSjefNetwork/M365-Mentor) App microlessen 
 
 
 🎯 **Doel**: Een gestructureerde en efficiënte samenwerking binnen ons bedrijf.
